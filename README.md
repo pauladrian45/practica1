@@ -1,2 +1,4 @@
-# practica1
-practica 1 de sistemas programables(semaforo con boton para paso de peaton)
+# Practica1
+Practica 1 de sistemas programables(semaforo con boton para paso de peaton)
+El codigo de esta practica programa el funcionamiento de un semaforo normal de tres luces: verde,amarillo y rojo, ademas este semaforo tiene una luz verde para el paso del peaton, que se activa cuando la luz de pare del semaforo vehicular se enciende.
+El codigo permite captar la señal de un potenciometro de 10k que programa el tiempo que dura la luz verde encendida y de esta manera se puede ir regulando segun se requiera. Ademas se cuenta con un boton que activa el semaforo de peaton y que hace que el tiempo de la luz verde del semaforo vehicular termine, se realice el funcionamiento basico de un semaforo y se de el paso al peaton, donde ademas cuenta con una alarma para que la atencion de los peatones se centre en cruzar la calle.
